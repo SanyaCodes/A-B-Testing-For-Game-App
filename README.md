@@ -1,4 +1,4 @@
-# A-B-Testing-For-Videogames
+# Netflix A-B-Testing-For-Videogames
 Progressing through the levels of a game, the players encounter gates that force them to either wait a non-trivial amount of time or make an in-app purchase to progress.
 
 Along with driving the in-app purchases, gates serve the important purpose of giving players an enforced break from playing the game, which results in increasing and prolonging the player's enjoyment.
